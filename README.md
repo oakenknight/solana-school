@@ -1,7 +1,6 @@
 # Solana School
 
-<img src="./assets/60_days_of_solana_image.webp" alt="Solana 60 Days" height="180">
-<img src="./assets/blog_post_image_light-1.webp" alt="RareSkills" height="180">
+<img src="./assets/60_days_of_solana_image.webp" alt="Solana 60 Days" height="180"><img src="./assets/blog_post_image_light-1.webp" alt="RareSkills" height="180">
 
 ## Following the RareSkills Solana tutorial: [RareSkills Solana tutorial](https://rareskills.io/solana-tutorial)
 
